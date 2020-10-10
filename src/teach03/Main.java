@@ -7,5 +7,7 @@ public class Main {
         System.out.println("Hello, my name is Yuki.");
 
         System.out.println("Hello Yuki, my name is Daijiro.");
+
+        System.out.println("Yuki is 25 years old.");
     }
 }
